@@ -1,0 +1,3 @@
+locals {
+  approval = var.approval
+}

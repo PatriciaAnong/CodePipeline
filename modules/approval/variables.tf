@@ -1,0 +1,4 @@
+variable "approval" {
+  type = string
+}
+
